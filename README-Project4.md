@@ -28,7 +28,7 @@ We chose a single SMA of 15 period, at 𝛼 = 0.3 which we obtain the most optim
 The cases were spread all over residential parts of singapore, we did k-means clustering to identify the different estates. From there we zoomed into the monthly dengue cases by the individual clusters.
 
 ### [![HYIH0nS.md.png](https://iili.io/HYIH0nS.md.png)](https://freeimage.host/i/HYIH0nS) 
-### - Clusters in Singapore
+(Clusters in Singapore)
 
 Start-of-year peak: North East cluster
 Mid-year peak: North, North-East, East, North-South
