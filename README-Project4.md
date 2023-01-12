@@ -25,11 +25,13 @@ We formulate a linear combination of lagged temperature and lagged rainfall mode
 We chose a single SMA of 15 period, at 𝛼 = 0.3 which we obtain the most optimal signal, to refine the signal we used a MAC signal as its easier to tell when the signal crosses above 0. It correlates well with when the peaks happen.
 
 [![HYIJ70F.md.png](https://iili.io/HYIJ70F.md.png)](https://freeimage.host/i/HYIJ70F)
+
 (lagged temperature and lagged rainfall model)
 
 The cases were spread all over residential parts of singapore, we did k-means clustering to identify the different estates. From there we zoomed into the monthly dengue cases by the individual clusters.
 
 [![HYIH0nS.md.png](https://iili.io/HYIH0nS.md.png)](https://freeimage.host/i/HYIH0nS) 
+
 (Clusters in Singapore)
 
 Start-of-year peak: North East cluster
